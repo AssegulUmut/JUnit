@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2b1d72b-3b4e-4241-bf8c-6a2a6ab9ee06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/P_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JUnitFramework/C01_MavenIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JUnitFramework/C02_BonigarciaWebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JUnitFramework/C03_ZeroWebApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JUnitFramework/C04_JUnitTestNotasyonu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JUnitFramework/C05_JUnitOtomatikRaporlama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JUnitFramework/C06_BeforeTest_AfterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day05_maven_JUnitFramework/C07_BeforeTest_AfterTestNotasyonlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/C01_Before_AfterClassNotasyonlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/C02_BestBuyAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/C03_YoutubeAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/C04_CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day06_JUnit_Assertions/C05_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/C01_TestBaseIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/C02_DropdownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/C03_DropdownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/C04_JsAllerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day07_testBase_dropdown/C05_BasicAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_IFrame_windows_actionsClass/C01_IFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_IFrame_windows_actionsClass/C02_SwitchingWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_IFrame_windows_actionsClass/C03_SwitchingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_IFrame_windows_actionsClass/C04_SwitchingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_IFrame_windows_actionsClass/C05_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day08_IFrame_windows_actionsClass/C06_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_actions_fileTestleri/C01_Actions_moveToElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_actions_fileTestleri/C02_KeybordbaseActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_actions_fileTestleri/C03_KeybordBaseActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_actions_fileTestleri/C04_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_actions_fileTestleri/C05_FileExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_actions_fileTestleri/C06_FileExistsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day09_actions_fileTestleri/C07_FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/C01_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/C02_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/C03_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day10_waits_cookies_webTables/C04_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/C01_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/C02_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/C03_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/C04_GetScreenshotTumSayfa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day11_exelOtomasyonu/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/C01_ReusableMethodsTumSayfaSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/C02_WebElementScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day12_screenshot_jsExecutor/C03_jsExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseBeforeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseQuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/P01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/P02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/P05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/P06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/P07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/practice/P08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JUnitFramework/C01_MavenIlkTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JUnitFramework/C02_BonigarciaWebDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JUnitFramework/C03_ZeroWebApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JUnitFramework/C04_JUnitTestNotasyonu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JUnitFramework/C05_JUnitOtomatikRaporlama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JUnitFramework/C06_BeforeTest_AfterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day05_maven_JUnitFramework/C07_BeforeTest_AfterTestNotasyonlari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day06_JUnit_Assertions/C01_Before_AfterClassNotasyonlari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day06_JUnit_Assertions/C02_BestBuyAssertions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day06_JUnit_Assertions/C03_YoutubeAssertions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day06_JUnit_Assertions/C04_CheckBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day06_JUnit_Assertions/C05_RadioButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/C01_TestBaseIlkTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/C02_DropdownMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/C03_DropdownMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/C04_JsAllerts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day07_testBase_dropdown/C05_BasicAuthentication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_IFrame_windows_actionsClass/C01_IFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_IFrame_windows_actionsClass/C02_SwitchingWindows.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_IFrame_windows_actionsClass/C03_SwitchingWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_IFrame_windows_actionsClass/C04_SwitchingWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_IFrame_windows_actionsClass/C05_Actions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day08_IFrame_windows_actionsClass/C06_Actions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_actions_fileTestleri/C01_Actions_moveToElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_actions_fileTestleri/C02_KeybordbaseActions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_actions_fileTestleri/C03_KeybordBaseActions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_actions_fileTestleri/C04_Faker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_actions_fileTestleri/C05_FileExists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_actions_fileTestleri/C06_FileExistsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day09_actions_fileTestleri/C07_FileUpload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/C01_ExplicitlyWait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/C02_Cookies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/C03_WebTables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day10_waits_cookies_webTables/C04_WebTables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day11_exelOtomasyonu/C01_ReadExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day11_exelOtomasyonu/C02_ReadExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/day11_exelOtomasyonu/C03_WriteExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseBeforeClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBaseQuit.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RPmWfRV8132cdieF2c8XpIgt1P" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/team116_JUnit/src/test/java/tests/day11&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\team116_JUnit\src\test\java\tests\day11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\team116_JUnit\src\test\java\tests\day11_exelOtomasyonu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.P_07">
+    <configuration name="P04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.P04" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P_05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.P_05" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P_05.paraKarsilastir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.P_05" />
+      <option name="METHOD_NAME" value="paraKarsilastir" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P_07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.P_07" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P_07.dropDownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="team116_JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.P_07" />
+      <option name="METHOD_NAME" value="dropDownMenu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.P_07" />
+        <item itemvalue="JUnit.P_07.dropDownMenu" />
+        <item itemvalue="JUnit.P04" />
+        <item itemvalue="JUnit.P_05.paraKarsilastir" />
+        <item itemvalue="JUnit.P_05" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2b1d72b-3b4e-4241-bf8c-6a2a6ab9ee06" name="Changes" comment="" />
+      <created>1687160128654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687160128654</updated>
+    </task>
+    <servers />
+  </component>
+</project>
